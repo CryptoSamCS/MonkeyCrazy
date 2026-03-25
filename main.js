@@ -277,12 +277,12 @@ const timBg = {
 }
 
 const CHARACTER_LIST = [
-    { file: 'img/characters/1.SAM.png',  name: 'SAM'  },
-    { file: 'img/characters/2.ZAKK.png', name: 'ZAKK' },
-    { file: 'img/characters/3.TIM.png', name: 'TIM' },
-    { file: 'img/characters/4.DUCKY.png', name: 'DUCKY' },
-    { file: 'img/characters/5.JUNE.png', name: 'JUNE' },
-    { file: 'img/characters/6.SEAN.png', name: 'SEAN' },
+    { file: 'img/Characters/1.SAM.png',  name: 'SAM'  },
+    { file: 'img/Characters/2.ZAKK.png', name: 'ZAKK' },
+    { file: 'img/Characters/3.TIM.png', name: 'TIM' },
+    { file: 'img/Characters/4.DUCKY.png', name: 'DUCKY' },
+    { file: 'img/Characters/5.JUNE.png', name: 'JUNE' },
+    { file: 'img/Characters/6.SEAN.png', name: 'SEAN' },
 
 ]
 const characterImgs = CHARACTER_LIST.map(c => {
