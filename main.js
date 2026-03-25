@@ -195,9 +195,9 @@ const juneBg = {
         if (charName !== 'JUNE') return
 
         const grad = ctx.createLinearGradient(0, cvs.height, 0, 0)
-        grad.addColorStop(0,   '#FFB6C1')
-        grad.addColorStop(0.5, '#C9A7E0')
-        grad.addColorStop(1,   '#4A90D9')
+        grad.addColorStop(0,   '#f9e4ff')
+        grad.addColorStop(0.5, '#e0a7db')
+        grad.addColorStop(1,   '#e4fffe')
         ctx.fillStyle = grad
         ctx.fillRect(0, 0, cvs.width, cvs.height)
     }
