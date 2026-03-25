@@ -65,7 +65,7 @@ SFX_CD.src = 'audio/sfx_cd.mp3'
 
 const SONG_LIST = [
     { track: 1, name: 'MONKEY BIZZ',  discs: 0,  src: 'songs/MonkeyBizz.mp3'},
-    { track: 2, name: 'RAPPING',  discs: 2, src: 'songs/PT.mp3'  },
+    { track: 2, name: 'PETE FA ME',  discs: 2, src: 'songs/PT.mp3'  },
 ]
 let totalCDs     = parseInt(localStorage.getItem('totalCDs') || '0')
 let selectedSongs = []
